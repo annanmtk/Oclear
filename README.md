@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/88719925/148106824-148d1bf1-937c-4171-84d7-4aad7102f5a5.PNG)
 # Oclear
 Oclear est un projet de lecture automatique des chèques
 c’est à dire les informations écrites par l'utilisateur, y compris
