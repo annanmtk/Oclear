@@ -27,3 +27,6 @@ lettre, nom du bénéficier, lieu).
 signature du même client si se trouve dans la base de
 données de la banque.
 5. Vérifier toutes les mentions obligatoires sur le chèque.
+
+
+Aller tester sur le fichier Load_and Prediction.ipynb
